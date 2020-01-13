@@ -1,3 +1,4 @@
+[![Build Status](https://kayodejoshua169.visualstudio.com/Space%20Game%20-%20web/_apis/build/status/OkayJosh.mslearn-tailspin-spacegame-web?branchName=master)](https://kayodejoshua169.visualstudio.com/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
